@@ -16,3 +16,7 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.user{
+    color: whitesmoke;
+    margin-left: 10px;
+}
